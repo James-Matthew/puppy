@@ -1,2 +1,2 @@
-# puppy
+# Puppy Farm
 http://puppy.farm
