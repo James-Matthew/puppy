@@ -1,2 +1,3 @@
-# Puppy Farm
-http://puppy.farm
+# Puppy Hero
+https://puppyhero.app
+
